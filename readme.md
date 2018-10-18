@@ -14,7 +14,7 @@ In this MessageBird Developer Guide, we'll show you how to use the MessageBird S
 
 This sample application represents the order website of a fictitious online beauty salon called _BeautyBird_. To reduce the growing number of no-shows, BeautyBird now collects appointment bookings through a form on their website and schedules timely SMS reminders to be sent out three hours before the selected date and time.
 
-To look at the full sample application or run it on your computer, go to the [MessageBird Developer Guides GitHub repository](https://github.com/messagebirdguides/reminders-guide-ruby) and clone it or download the source code as a ZIP archive. You will need [Ruby](https://www.ruby-lang.org/en/) and bundler](https://bundler.io/) to run the example.
+To look at the full sample application or run it on your computer, go to the [MessageBird Developer Guides GitHub repository](https://github.com/messagebirdguides/reminders-guide-ruby) and clone it or download the source code as a ZIP archive. You will need [Ruby](https://www.ruby-lang.org/en/) and [bundler](https://bundler.io/) to run the example.
 
 Open a console pointed at the directory into which you've placed the sample application and run the following command to install the MessageBird SDK for Ruby and other dependencies:
 
